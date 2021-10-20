@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World! 👋
+
+[![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratik-nagelia)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **pratik-nagelia/pratik-nagelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
